@@ -1,0 +1,7 @@
+body{margin: 0;}
+.everyWeekDay .weekday,.everyDay .days {/*解决span不支持width属性*/display: -moz-inline-box;display: inline-block;margin: 5px 0 0 20px;text-align: center;width: 20px;border: 1px solid #F7F7F7;cursor: pointer;}		
+.marginTop{margin-top: 5px;}
+.selectStyle{padding-left: 10px;border: none;border-radius: 3px;outline: none;appearance: none;-moz-appearance: none;-webkit-appearance: none;margin: 0 10px 0 10px;width: 60px;border-color: #0FB9EF;color: #0FB9EF;}     
+.form-control{width: 500px;}
+.btn-row{overflow:hidden;margin-top:15px;}
+#txt_calendar{margin-top: 20px;padding-left: 10px;outline:none;background-color: #fff;}
